@@ -11,19 +11,21 @@ GalaxySail - 银河之帆，横渡 Misc 星海 | 一站式 CTF Misc 杂项分析
 
 ### 📖 使用演示
 
-**CSDN 详细教程：** []()
 
-**微信公众号使用演示：** []()
+
+**微信公众号使用演示：** [https://mp.weixin.qq.com/s/3bFWifwmXZaF_jwDkJNbQA](https://mp.weixin.qq.com/s/3bFWifwmXZaF_jwDkJNbQA)
 
 ---
 
 ### 📞 联系作者
 
+> 可以通过微信号联系作者，方便快捷获取工具，定价为59元
+
 **微信:** `Galaxysailll`
 
 > 若担心微信交易安全性，也可通过上方 FreeBuf 平台交易，售后保障相同
 
-**FreeBuf 平台购买：** []()
+**FreeBuf 平台购买：** [https://m-wiki.freebuf.com/clubsStore/detail?id=120](https://m-wiki.freebuf.com/clubsStore/detail?id=120)
 
 
 ---
